@@ -22,13 +22,3 @@ A 12-step daily framework for living well:
 11. **Struggle** – Do something challenging.  
 12. **Improvement** – Enhance life, skills, or surroundings.
 
-## Practice Tools
-
-- **Zenith Ritual** – 20–25 min sequence of movement, meditation, and mindful water drinking.  
-- **Sun Tarot** – A reflection tool using suits *Rays*, *Shadows*, *Tides*, and *Stone*; courts *Dawn*, *Zenith*, *Dusk*, and *Midnight*.  
-- **Cheat Sheet** – A one-page summary of the Delights for daily use.
-
-## Philosophy
-
-- Reduce suffering through conscious awareness and moderation.  
-- Balance ascetic reflection with simple
