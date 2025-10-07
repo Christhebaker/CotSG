@@ -1,24 +1,53 @@
 # Church of the Sun Goddess (CotSG)
 
-A practical spiritual philosophy focused on reducing suffering, cultivating compassion, and enjoying simple human joys.
+The Church of the Sun Goddess is a practical philosophy disguised as a religion. It uses the language of “sun worship” as a fun, symbolic framework for living simply, reducing suffering, and appreciating daily life. There’s no supernatural belief — the Sun represents awareness, warmth, energy, and renewal.
 
-## Core Principles
+---
 
-**The Sun** represents life energy, beauty, and relief from suffering.
+## Core Idea
 
-### The Dozen Delights
-A 12-step daily framework for living well:
+The Sun actually exists. you can go outside and look at it.
 
-1. **Mindfulness** – Stay aware of your surroundings and thoughts.  
-2. **Hydration** – Drink enough water.  
-3. **Nourishment** – Eat what your body truly needs.  
-4. **Movement** – Move your body daily.  
-5. **Touch** – Have positive physical contact.  
-6. **Curiosity** – Learn or explore something new.  
-7. **Creation** – Make or build something.  
-8. **Fun** – Do something purely for joy.  
-9. **Charity** – Help someone without expecting return.  
-10. **Interaction** – Connect meaningfully with another person.  
-11. **Struggle** – Do something challenging.  
-12. **Improvement** – Enhance life, skills, or surroundings.
+The goal is to:
+- Pay attention to life as it is
+- Maintain physical and mental health
+- Practice compassion
+- Find joy in ordinary experiences
+- Improve yourself and your surroundings, deliberately
 
+---
+
+## The Dozen Delights
+
+A 12-step framework for a balanced day:
+
+1. **Mindfulness** – Are you paying attention to the world around you?  
+2. **Hydration** – Are you drinking enough water?  
+3. **Nourishment** – Are you eating what your body actually needs?  
+4. **Movement** – Have you moved your body today?  
+5. **Touch** – Have you had positive physical contact?  
+6. **Curiosity** – Have you learned or explored something?  
+7. **Creation** – Have you made something?  
+8. **Fun** – Have you done something just because it brought you joy?  
+9. **Charity** – Have you helped someone without expecting return?  
+10. **Interaction** – Have you meaningfully connected with another person?  
+11. **Struggle** – Have you done something hard today?  
+12. **Improvement** – Have you improved your life, skill, or surroundings?
+
+---
+
+## Practice Tools
+
+- **Zenith Ritual** – A 20–25 minute daily reset. more to follow.
+---
+
+## Philosophy Summary
+
+- **Material:** The Sun is literal — it keeps us alive.  
+- **Symbolic:** The Sun represents awareness, energy, and beauty — the things that make life tolerable.  
+- **Ethical:** Suffering is reduced through attention, compassion, and self-discipline.  
+- **Practical:** No hierarchy, no clergy, no belief required — just habits that make a human life better.  
+
+---
+
+_No license selected yet. All rights reserved until one is added._
