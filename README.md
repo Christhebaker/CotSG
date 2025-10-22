@@ -30,6 +30,12 @@ The Dozen Delights are CotSG's core daily practices. Strive to experience as man
 
 A daily practice combining movement, meditation, and hydration. Takes place at noon each day. More to follow.
 
-![CotSG Coin](images/coin.png)
+## Coin
+
+A small token to keep the Dozen Delights in mind. Make your own from the design files, or use it as a worry stone, fidget tool, or memento mori.
+
+Symbology represents the Dozen Delights to the best of my ability using common characters starting at the 12 o'clock position and moving clockwise.
+
+![CotSG Coin](images/coin.jpg)
 
 _Released under MIT License — use, modify, and share freely._
