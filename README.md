@@ -1,6 +1,6 @@
 # Church of the Sun Goddess (CotSG)
 
-**The Sun actually exists. you can go outside and look at it.**
+**The  Sun actually exists. you can go outside and look at it.**
 
 The Church of the Sun Goddess (CotSG) is a practical philosophy disguised as a religion. It uses the concept of “sun worship” as a fun framework for . **There’s no supernatural belief** — the Sun represents awareness, warmth, energy, and renewal.
 
