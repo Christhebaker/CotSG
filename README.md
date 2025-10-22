@@ -2,39 +2,32 @@
 
 **The Sun actually exists. you can go outside and look at it.**
 
-The Church of the Sun Goddess (CotSG) is a practical philosophy disguised as a religion. It uses the concept of “sun worship” as a fun framework for . **There’s no supernatural belief** — the Sun represents awareness, warmth, energy, and renewal.
+The Church of the Sun Goddess (CotSG) is a practical philosophy disguised as a religion. It uses the concept of “sun worship” as a fun framework for daily practice. The Sun has been a timeless symbol for life, and it is literally the source of energy for almost all life on Earth. **There’s no supernatural belief**. 
 
-CotSG doesn't demand strict adherence to dogma. Simply, do these things and you will feel good.
+CotSG doesn't demand strict adherence to dogma. Simply, do these things and you will feel good. Its practices are grounded in scientific research on mental and physical well-being (i.e. movement, mindfulness, connection, and reflection).
 
 ## The Dozen Delights
 
 The Dozen Delights are CotSG's core daily practices. Strive to experience as many as possible every day. No guilt, just honest effort. Avoid *'zero days'*.
 
-1. **Mindfulness** – Pay attention to the world around you.
+1. **Mindfulness** – Pay attention to the world around you and live in the present.
 2. **Hydration** – Drink enough water.
-3. **Nourishment** – Eat what your body actually needs.
-4. **Movement** – Move your body today.
-5. **Touch** – Have positive physical contact.
-6. **Curiosity** – Learn or explore something.
-7. **Creation** – Make something.
-8. **Fun** – Do something just because it brings you joy.
+3. **Nourishment** – Eat what your body needs. 
+4. **Movement** – Exercise.
+5. **Touch** – Have positive physical contact with another living being.
+6. **Curiosity** – Learn something new.
+7. **Creation** – Make something new.
+8. **Fun** – Goof off and have fun.
 9. **Charity** – Help someone without expecting return.
 10. **Interaction** – Meaningfully connect with another person.
-11. **Struggle** – Do something hard today.
-12. **Improvement** – Improve your life, skill, or surroundings.
+11. **Struggle** – Do something hard.
+12. **Improvement** – Improve your something, anything.
+13. **Sunlight** - Bask in the sunlight and get your vitamin D.
 
-## Practices
 
-- **Zenith Ritual** – A 20–25 minute daily reset. more to follow.
----
+## Zenith Ritual
 
-## Philosophy Summary
+A daily practice combining movement, meditation, and hydration. Takes place at noon each day. More to follow.
 
-- **Material:** The Sun is literal — it keeps us alive.  
-- **Symbolic:** The Sun represents awareness, energy, and beauty — the things that make life tolerable.  
-- **Ethical:** Suffering is reduced through attention, compassion, and self-discipline.  
-- **Practical:** No hierarchy, no clergy, no belief required — just habits that make a human life better.  
 
----
-
-_No license selected yet. All rights reserved until one is added._
+_Released under MIT License — use, modify, and share freely._
