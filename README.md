@@ -24,10 +24,12 @@ The Dozen Delights are CotSG's core daily practices. Strive to experience as man
 12. **Improvement** – Improve your something, anything.
 13. **Sunlight** - Bask in the sunlight and get your vitamin D.
 
+[more...](delights.md)
 
 ## Zenith Ritual
 
 A daily practice combining movement, meditation, and hydration. Takes place at noon each day. More to follow.
 
+![CotSG Coin](images/coin.png)
 
 _Released under MIT License — use, modify, and share freely._
