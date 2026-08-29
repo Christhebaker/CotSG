@@ -39,3 +39,4 @@ Symbology represents the Dozen Delights to the best of my ability using common c
 ![CotSG Coin](images/coin.jpg)
 
 _Released under MIT License — use, modify, and share freely._
+fsd
