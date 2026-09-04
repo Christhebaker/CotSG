@@ -1,5 +1,7 @@
 # Church of the Sun Goddess (CotSG)
 
+## The Core
+
 **The Sun actually exists. You can go outside and look at it.**
 
 The Church of the Sun Goddess (CotSG) is a practical philosophy disguised as a religion. It uses the concept of “sun worship” as a fun framework for daily practice. The Sun has been a timeless symbol for life, and it is literally the source of energy for almost all life on Earth. 
@@ -8,13 +10,13 @@ There’s no supernatural belief.
 
 CotSG doesn't demand strict adherence to dogma. Simply, do these things and you will feel good. Its practices are grounded in scientific research on mental and physical well-being (i.e. movement, mindfulness, connection, and reflection).
 
-## Why?
+### Why?
 
 Simply put, *middle ground*.
 
 Religion is too supernatural, self-help is too sterile. Humans are wired for ritual, so use that to your advantage.
 
-## The Dozen Delights
+### The Dozen Delights
 
 The Dozen Delights are CotSG's core daily practices. Strive to experience as many as possible every day. No guilt, just honest effort. Avoid *'zero days'*.
 
@@ -34,3 +36,9 @@ The Dozen Delights are CotSG's core daily practices. Strive to experience as man
 It's actually a baker's dozen.
 
 13. **Sunlight** - Go outside and look at it.
+
+---
+*That's **the Core**. It stands alone and everything else is optional.*  
+***[The Canon](canon/)** is the ritual structure that makes it stick.*  
+***[The Codex](codex/)** is the scientific and philosophical receipts.*  
+
